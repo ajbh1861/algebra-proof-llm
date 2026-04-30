@@ -41,6 +41,3 @@ This project trains a language model to generate step-by-step algebra proofs ins
 - SFT: ~92% accuracy
 - GRPO + SFT: ~99% accuracy
 - OOD: up to 100% accuracy
-
-## Author
-Amar Bhan
