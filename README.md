@@ -1,7 +1,7 @@
 # Algebra Proof LLM (SFT + GRPO)
 
 ## Overview
-This project trains a language model to generate step-by-step algebra proofs instead of just final answers. The goal is to improve both correctness and formatting of mathematical reasoning.
+This project trains a language model to generate step-by-step algebra proofs instead of just final answers. The goal is to improve both correctness and formatting of mathematical reasoning. This repository contains code, datasets, and results for the paper "Improving algebra proof generation using fine-tuning and GRPO".
 
 ## Models Used
 - Base model: Mistral-7B-Instruct
