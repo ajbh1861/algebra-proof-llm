@@ -1,0 +1,2 @@
+model,n_test,accuracy,formatting_rate,final_rate,avg_steps,avg_tokens
+BASE_OOD,300,0.4766666666666667,0.6566666666666666,0.6566666666666666,11.126666666666667,285.12

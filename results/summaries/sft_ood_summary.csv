@@ -1,0 +1,2 @@
+model,n_test,accuracy,formatting_rate,final_rate,avg_steps,avg_tokens
+SFT_OOD,300,0.97,0.9966666666666667,0.9966666666666667,3.4566666666666666,117.83333333333333

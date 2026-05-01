@@ -1,0 +1,2 @@
+model,n_test,accuracy,formatting_rate,final_rate,avg_steps,avg_tokens
+GRPO_OOD,300,1.0,1.0,1.0,3.1966666666666668,105.79666666666667
